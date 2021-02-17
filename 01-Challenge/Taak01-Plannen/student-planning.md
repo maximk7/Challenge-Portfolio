@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:20 u             | bezig  |
 | ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Realiseren  | Bestanden aanmaken                             | 00:35 u             | niet begonnen |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:30 u             | niet begonnen |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:50 u             | niet begonnen |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren |                                                | 1:00 u              | niet begonnen |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 1:00 u              | niet begonnen |
